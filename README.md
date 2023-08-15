@@ -1,7 +1,3 @@
-# Demo 2
+# Demo login
 
-New text what is this?
-
-what now?
-
-More text....
+This has the login informations
